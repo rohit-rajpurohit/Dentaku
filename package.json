@@ -1,0 +1,19 @@
+{
+  "name": "dentaku",
+  "version": "1.0.0",
+  "description": "Dentaku is a simple web calculator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-rajpurohit/Dentaku.git"
+  },
+  "author": "Rohit Rajpurohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-rajpurohit/Dentaku/issues"
+  },
+  "homepage": "https://github.com/rohit-rajpurohit/Dentaku#readme"
+}
