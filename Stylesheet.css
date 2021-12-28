@@ -2,7 +2,8 @@
 
 @font-face {
   font-family: Blogkio;
-  src: url("./Fonts/Blogkio.otf") format("opentype");
+  src: url("https://github.com/rohit-rajpurohit/Dentaku/blob/main/Fonts/Blogkio.otf")
+    format("opentype");
 }
 
 * {
