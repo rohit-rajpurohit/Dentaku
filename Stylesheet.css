@@ -28,7 +28,7 @@ body {
   margin: 2% auto;
   letter-spacing: 1rem;
   text-decoration: underline;
-  font-family: "Blogkio", serif;
+  font-family: "Blogkio";
   text-shadow: 0 2px 2px hsl(0deg 0% 0% / 0.075),
     0 4px 4px hsl(0deg 0% 0% / 0.075), 0 8px 8px hsl(0deg 0% 0% / 0.075),
     0 16px 16px hsl(0deg 0% 0% / 0.075), 0 32px 32px hsl(0deg 0% 0% / 0.075);
